@@ -1,0 +1,4 @@
+.qmlls.ini
+test.qml
+*.log
+__pycache__/
