@@ -23,7 +23,7 @@ QtObject {
     property string foreground: "#c1c0c0"
     property string background: "#090404"
 
-    property string _colorsPath: Qt.homePath + "/.cache/wal/colors.json"
+    property string _colorsPath: "/home/brextal/.cache/wal/colors.json"
 
     function _applyColors(text) {
         try {
